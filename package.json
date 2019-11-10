@@ -1,7 +1,7 @@
 {
   "name": "rtl-converter",
   "version": "0.1.0",
-  "description": "Bootstrap rtl converter for any version",
+  "description": "converts any stylesheet or css to RTL",
   "main": "index.js",
   "keywords": [
     "bootstrap rtl",
