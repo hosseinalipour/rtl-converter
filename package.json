@@ -1,8 +1,16 @@
 {
-  "name": "bootstrap-rtl-converter",
+  "name": "rtl-converter",
   "version": "0.1.0",
   "description": "Bootstrap rtl converter for any version",
   "main": "index.js",
+  "keywords": [
+    "bootstrap rtl",
+    "bootstrap",
+    "rtl template",
+    "rtl theme",
+    "material rtl",
+    "material design rtl"
+  ],
   "author": "Hossein Alipour",
   "license": "MIT",
   "dependencies": {
